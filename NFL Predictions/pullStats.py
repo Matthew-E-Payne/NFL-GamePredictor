@@ -56,6 +56,6 @@ for url in urls:
     xmlStruct += "</NFLTeamStats>"
 
 
-    with open("NFL-" + url.split("/")[5] + "-" + url.split("/")[6] + ".xml", "w", encoding="utf-8") as file:
+    with open("data\\NFL-" + url.split("/")[5] + "-" + url.split("/")[6] + ".xml", "w", encoding="utf-8") as file:
         file.write(xmlStruct)
     file.close()

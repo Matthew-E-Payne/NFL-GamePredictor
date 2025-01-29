@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NFL Predictions/1.0.0": {
+        "runtime": {
+          "NFL Predictions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NFL Predictions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
